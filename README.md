@@ -14,5 +14,5 @@ Technologies Used
 
 ScreenShots
 ----------
-<img src="./screenshots/img1.png"> 
+<img src="./screenshots/img.png"> 
 <img src="./screenshots/img2.png">
