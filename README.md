@@ -4,7 +4,7 @@ HTML5 game in which we have to dodge the Sticks
 
 Play the Game
 ----------
-<!--link-->
+https://mayankmtg.github.io/Stick-Dodge/
 
 Technologies Used
 ----------
